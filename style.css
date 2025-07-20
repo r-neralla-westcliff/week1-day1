@@ -99,6 +99,9 @@
      margin: 20px 0 10px 0;
  }
 
+ main #album #photo img {
+    width: 400px;
+ }
 
  footer {
      height: 40px;
